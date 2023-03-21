@@ -29,9 +29,9 @@ function donusturucu (emailadresi) {
     console.log(emailadresi, "adresi", fullName, "'a aittir.")
     return  
  }
-console.log(donusturucu("mustafa_selman@gmail.com"))
-console.log(donusturucu("mehmet_colak@hotmail.com"))
-console.log(donusturucu("yasin_sezer@yandex.com"))
+donusturucu("mustafa_selman@gmail.com")
+donusturucu("mehmet_colak@hotmail.com")
+donusturucu("yasin_sezer@yandex.com")
 
 
 
